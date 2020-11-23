@@ -1,0 +1,23 @@
+{
+  "name": "node_assignment",
+  "version": "1.0.0",
+  "description": "Node Promise using array & objects. Read file using promise.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel-Dyola/node_assignment.git"
+  },
+  "author": "Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angel-Dyola/node_assignment/issues"
+  },
+  "homepage": "https://github.com/Angel-Dyola/node_assignment#readme"
+}
